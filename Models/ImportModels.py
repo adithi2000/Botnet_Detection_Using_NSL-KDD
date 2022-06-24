@@ -1,6 +1,5 @@
 import pickle
 import os
-import cv2
 from keras.models import model_from_json
 import xgboost as xgb
 
